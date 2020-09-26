@@ -1,6 +1,6 @@
 # Inshackle v1.0
 # Instagram bot,auto follower
-## Author: github.com/aktechunt3r/inshackle
+## Recoded by: github.com/aktechunt3r/inshackle
 
 ## IG: instagram.com/hunt3rr
 ## subscribe my YouTube channel - https://www.youtube.com/c/AKTECHUNT3r
